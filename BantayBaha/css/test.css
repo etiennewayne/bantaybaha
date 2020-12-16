@@ -1,0 +1,17 @@
+body {
+    font-family: helvetica;
+}
+
+/* Default test chart height of 220px. */
+.test .epoch {
+    height: 220px;
+}
+
+.broken {
+    color: red;
+}
+
+
+#test-9{
+    margin: 5px;
+}
